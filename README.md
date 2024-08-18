@@ -11,7 +11,6 @@ O objetivo deste projeto é identificar padrões de vendas, analisar o impacto d
 ```
 ├── SQL_Dashboard
 │   ├── queries.sql
-│   └── README.md
 ├── Python_Forecasting
 │   ├── forecasting.py
 │   ├── clustering.py
